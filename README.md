@@ -1,9 +1,9 @@
 Uebung7
 =======
-## Liste
-* Uebung 1
-* Uebung 2
-* Uebung 3
+## Mathematik
+* **Algebra und Zahlentheorie**: Topologie, Gruppentheorie, algebraische Gleichungen
+* *Analysis*: Differential- und Integralrechnung, Funktionentheorie
+* **Numerikk**
 
 | Stadt | Land | Flus |
 |:------|:----:|--------: |
@@ -13,5 +13,3 @@ Uebung7
 |Rom   | Italien | Tiber |
 |London   | England | Themse |
 
-*Kursiv*
-**Fett**
