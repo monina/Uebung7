@@ -3,7 +3,7 @@ Uebung7
 ## Mathematik
 * **Algebra und Zahlentheorie**: Topologie, Gruppentheorie, algebraische Gleichungen
 * *Analysis*: Differential- und Integralrechnung, Funktionentheorie
-* **Numerikk**
+* **Numerik**
 
 | Stadt | Land | Flus |
 |:------|:----:|--------: |
