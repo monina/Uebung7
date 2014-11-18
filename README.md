@@ -5,10 +5,13 @@ Uebung7
 * Uebung 2
 * Uebung 3
 
-| Stadt | Land | Sprachen |
+| Stadt | Land | Flus |
 |:------|:----:|--------: |
-|Basel  | Belgien | JavaScript |
-|Bern   | Brasilien | Python |
+|Basel  | Schweiz | Rhein |
+|Budapest   | Ungarn | Donau |
+|Paris   | Frankreich | Seine |
+|Rom   | Italien | Tiber |
+|London   | England | Themse |
 
 *Kursiv*
 **Fett**
